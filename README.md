@@ -10,6 +10,17 @@ Este aplicativo foi desenvolvido totalmente para aplicação mobile, usando prin
 
 ## Layout
 
+<p align="center">
+  <img width="350" src="">
+  <img width="350" src="">
+  <img width="350" src="">
+  <img width="500" src="">
+  <img width="500" src="">
+</P>
+
+## Como execultar o projeto
+
+Para executar o projeto basta clonar o link do projeto para o computador na pasta desejada e instalar o expo em seu computador, fazer o import da estrutura do projeto, e abrir o leitor de código de qrCode e ler o qrCode do expo cli para executar o aplicativo no celular.
 
 
 ## Sample Snack app
