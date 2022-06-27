@@ -15,7 +15,7 @@ com todos os cadastros podem ser vistos em "https://snack.expo.dev/@charlistonro
   <img width="350" src="CadastroImigrantes1.png">
   <img width="350" src="CadastroImigrantes2.png">
   <img width="350" src="CadastroImigrantes3.png">
-  <img width="350" src="CadastroImigrantes4.png">
+  <img width="400" src="CadastroImigrantes4.png">
 </P>
 
 ## Como execultar o projeto
