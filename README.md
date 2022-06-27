@@ -7,7 +7,7 @@ Este é um aplicativo de carater totalmente social, construido com a finalidade 
 ## Mais informações 
 
 Este aplicativo foi desenvolvido totalmente para aplicação mobile, usando principios de arquitetura rest, e conectividade ao banco de dados mongoDB. O resultado 
-com todos os cadastros podem ser vistos em "https://snack.expo.dev/@charlistonrodrigo/sprint3-leo" , selecionando a opção android, ou se preferir visualizar toda a listagem acesse a API "https://api-imigrantes-1.charliston.repl.co/api/imigrantes-1" no seu navegador.
+com todos os cadastros podem ser vistos em "https://snack.expo.dev/@charlistonrodrigo/sprint3-leo" , selecionando a opção android e Tap to play, ou se preferir visualizar toda a listagem acesse a API "https://api-imigrantes-1.charliston.repl.co/api/imigrantes-1" no seu navegador.
 
 ## Layout
 
