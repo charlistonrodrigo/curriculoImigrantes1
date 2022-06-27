@@ -1,10 +1,10 @@
-## CadastroImigrantes
+# CadastroImigrantes
 
-# Sobre
+## Sobre
 
 Este é um aplicativo de carater totalmente social, construido com a finalidade de ajudar imigrantes que ao chegarem no Brasil possam ter a oportunidade de encontrar um emprego. Para isto basta preencher o formulário do curriculo e enviar, este será direcionado para uma empresa participante deste projeto.  
 
-# Mais informações 
+## Mais informações 
 
 Este aplicativo foi desenvolvido totalmente para aplicação mobile, usando principios de arquitetura rest, e conectividade ao banco de dados mongoDB.
 
@@ -12,7 +12,7 @@ Este aplicativo foi desenvolvido totalmente para aplicação mobile, usando prin
 
 
 
-# Sample Snack app
+## Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
