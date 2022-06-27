@@ -12,10 +12,10 @@ com todos os cadastros podem ser vistos em "https://snack.expo.dev/@charlistonro
 ## Layout
 
 <p align="center">
-  <img width="500" src="CadastroImigrantes1.png">
-  <img width="500" src="CadastroImigrantes2.png">
-  <img width="500" src="CadastroImigrantes3.png">
-  <img width="500" src="CadastroImigrantes4.png">
+  <img width="350" src="CadastroImigrantes1.png">
+  <img width="350" src="CadastroImigrantes2.png">
+  <img width="350" src="CadastroImigrantes3.png">
+  <img width="350" src="CadastroImigrantes4.png">
 </P>
 
 ## Como execultar o projeto
