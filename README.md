@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/charlistonrodrigo/CadastroImigrantes/blob/add-license-1/LICENCE)
+
 # CadastroImigrantes
 
 ## Sobre
